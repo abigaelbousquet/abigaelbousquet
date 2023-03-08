@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @abigaelbousquet
-- 👀 I’m interested in computer science, software engineering, and computer engineering.
-- 🌱 I’m currently studying CS and engineering at Brown University. Class of 2026 :)
-- 💞️ I’m looking to collaborate on projects that involve processing data and user-centered design.
+- Hi, I’m @abigaelbousquet
+- I’m interested in computer science, software engineering, and computer engineering.
+- I’m currently studying CS and Computer Engineering at Brown University. Class of 2026 :)
+- I’m looking to collaborate on projects that involve data processing and user-centered design.
 
-I have a year of experience with Java and a year of experience with Python. I have some experience in ReasonML and Racket too and next semester I'll be learning some C! I'm a big fan of Java, although most of my projects in Java use starter code that I didn't write, so I can't post them publically. I'm happy to share access to additional Java projects/repositories upon request though!
+Big Java fan, but Python is okay too I suppose. Hot/warm take: Javadocs are the most beautiful thing ever.
+PS. enjoy my profile picture of the shirt I wear whenever I temporarily question my career choices (usually because of a typo).
 
 <!---
 abigaelbousquet/abigaelbousquet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
